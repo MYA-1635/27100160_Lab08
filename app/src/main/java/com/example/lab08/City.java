@@ -1,5 +1,6 @@
 package com.example.lab08;
 
+// instruction manual told to do this
 public class City {
     private String city;
     private String province;
